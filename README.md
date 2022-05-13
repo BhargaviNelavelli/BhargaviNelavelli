@@ -1,7 +1,7 @@
 Hi 👋 My name is Nelavelli Bhargavi
 ===================================
 
-Datascience Trainee
+Data science Trainee
 -------------------
 
 Trainee at innomatics research labs ,hands on knowledge on python, pandas ,numpy. currently working on EDA project which includes Data extraction.data analysis cleaning and data analytics
